@@ -7,7 +7,7 @@ program : hello world
 
 int main()
 {
-	printf("hello world!");
+	printf("\nhello world!\n");
 	//printing the hello world
 
         return 0;
